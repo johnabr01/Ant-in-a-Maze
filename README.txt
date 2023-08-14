@@ -1,3 +1,8 @@
+****Class Team Members****
+John Abraham
+Dharmik Gowda
+Noor Baig
+********************
 ***IMPORTANT***
 The constants bx and by are the number of rows and columns that needs to be changed manually when the maze file changes.
 ***************
